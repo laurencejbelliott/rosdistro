@@ -15995,6 +15995,12 @@ repositories:
       type: git
       url: https://github.com/uos/volksbot_driver.git
       version: kinetic
+  volume:
+    source:
+      type: git
+      url: https://github.com/laurencejbelliott/audio-volume.git
+      version: master
+     status: maintained
   vrpn:
     doc:
       type: git
